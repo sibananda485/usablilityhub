@@ -379,7 +379,7 @@ footer{
         display: block;
         margin-right: 10px;
     }
-    .nav-links{
+    .nav-links,#become-a-tester{
         display:none;
     }
     .example-card{
